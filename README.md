@@ -9,6 +9,7 @@ Olá, Sou Flora Rosa 👋
 <div style="display: inline_block"><br>
   <img align="center" alt="Flora-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flora-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ <img align="center" alt="Flora-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="right" alt="Flora-Vanelop" src="https://media.giphy.com/media/5WJ0nKZbrdbZtxfj7b/giphy.gif">
 </div>
    
