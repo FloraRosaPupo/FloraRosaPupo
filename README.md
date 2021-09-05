@@ -9,7 +9,7 @@ Olá, Sou Flora Rosa 👋
 <div style="display: inline_block"><br>
   <img align="center" alt="Flora-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flora-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Flora-Vanelop" src="https://i.pinimg.com/originals/61/9b/e6/619be668b0329d809fb79338f0894a0d.gif">
+  <img align="right" alt="Flora-Vanelop" src="https://media.giphy.com/media/5WJ0nKZbrdbZtxfj7b/giphy.gif">
 </div>
    
   ##
