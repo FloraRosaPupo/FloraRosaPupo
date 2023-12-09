@@ -14,7 +14,7 @@ Olá, Sou Flora Rosa 👋
   <img align="center" alt="Flora-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
  <img align="center" alt="Flora-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
- 
+ </br>
 
 </div>
     
