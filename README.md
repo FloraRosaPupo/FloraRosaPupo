@@ -14,10 +14,10 @@ Olá, Sou Flora Rosa 👋
   <img align="center" alt="Flora-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
  <img align="center" alt="Flora-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
- <br>
+ 
 
 </div>
-    
+   <br> 
 <div> 
   <a href="https://www.instagram.com/florarosapupo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "florapupo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
