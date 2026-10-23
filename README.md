@@ -1,78 +1,48 @@
-# Flora Rosa — Perfil no GitHub
+# Flora Rosa
 
-## Descrição
+**Desenvolvimento de software · Flutter & Dart · UX/UI**
 
-Repositório especial que apresenta o perfil público de Flora Rosa no GitHub, incluindo trajetória, tecnologias, contatos e visualizações de atividade. É um perfil em Markdown, não uma aplicação.
+Desenvolvo aplicações com atenção à experiência de uso, à organização do código e à qualidade das entregas. Minha formação em **Sistemas de Informação** e minha experiência com **UX/UI Design** conectam a construção das interfaces às necessidades de quem vai utilizá-las.
 
-## Stack e bibliotecas
+[LinkedIn](https://www.linkedin.com/in/flora-rosa-b386841b6/) · [E-mail](mailto:florapupo@gmail.com) · [Portfólio em Flutter](https://github.com/FloraRosaPupo/Portifolio)
 
-Markdown, GitHub Actions e animação SVG.
+## Sobre meu trabalho
 
-## Funcionalidades
+Meu foco é o desenvolvimento de aplicações com Flutter e Dart. Nos meus projetos, também exploro APIs, persistência de dados e integração entre interfaces e serviços.
 
-- Perfil público.
-- Apresentação de tecnologias.
-- Animação das contribuições.
+- **Interfaces:** navegação, clareza das informações e experiência de uso.
+- **Código:** organização por funcionalidade e separação de responsabilidades conforme o tamanho do projeto.
+- **Qualidade:** testes de regras e regressões, documentação de execução e verificações com GitHub Actions.
+- **Aprendizado:** experimentos em Python e estudos de inteligência artificial aplicada ao desenvolvimento de software.
 
-## Licença
+## Projetos em destaque
 
-Não há uma licença de distribuição definida para este repositório. Nenhuma licença MIT, Apache ou equivalente é concedida por este README. As atribuições e os direitos dos materiais de terceiros permanecem preservados.
+| Projeto | O que desenvolvi | Tecnologias |
+|---|---|---|
+| [bebeu? — Controle de hidratação](https://github.com/FloraRosaPupo/controle_agua) | Aplicativo para registrar consumo de água, acompanhar metas e consultar o histórico. | Flutter, Cubit, TypeScript, Express e Prisma |
+| [Avalia](https://github.com/FloraRosaPupo/projeto_Avalia) | Interface para gestão de turmas, provas e submissões, com integração ao Supabase. | Flutter, Cubit e Supabase |
+| [Quadro branco colaborativo](https://github.com/FloraRosaPupo/ProjetoQuadroColaborativo_SD) | Projeto de desenho compartilhado com autenticação e comunicação entre participantes. | Python, PySide6, Supabase e WebSocket |
+| [Jornada de IA e engenharia](https://github.com/FloraRosaPupo/jornada-ia-engenharia) | Roteiro de estudos com um experimento de busca lexical TF-IDF e testes automatizados. | Python e unittest |
 
-## Validação e limites
+Os READMEs de cada projeto apresentam funcionalidades, configuração, testes e limitações das integrações.
 
-Revisão de documentação/YAML. A geração da animação não foi disparada manualmente.
+## Tecnologias presentes nos meus projetos
 
-## Apresentação do perfil
+| Área | Tecnologias e ferramentas |
+|---|---|
+| Aplicações e interfaces | Flutter, Dart, Cubit e GetX |
+| APIs e backend | Node.js, TypeScript, Express, Python e Flask |
+| Dados e integrações | Supabase, Firebase, PostgreSQL, SQLite e Prisma |
+| Qualidade e colaboração | Git, GitHub Actions, testes unitários e testes de widgets |
+| Experiência de uso | UX/UI Design |
 
-Desenvolvedora focada em **Flutter, Dart e UX/UI**, criando interfaces funcionais, elegantes e que fazem sentido para pessoas reais.
+## Em desenvolvimento
 
----
+Estou aprofundando meus estudos em arquitetura de software, testes e IA. Uso projetos pessoais para experimentar soluções, revisar decisões técnicas e transformar o aprendizado em implementações documentadas.
 
-### 🚀 Sobre mim
-- 🎓 Formação em Sistemas de Informação
-- 📱 Desenvolvimento mobile com Flutter
-- 🎨 Background em UX/UI Design
-- 🧠 Interesse em IA, produtos digitais e boas arquiteturas
+## Vamos conversar
 
----
+Para conversar sobre desenvolvimento de software, projetos e oportunidades profissionais:
 
-### 🛠️ Tecnologias & Ferramentas
-<div align="center"><br>
-  <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="WordPress" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-</div>
-
----
-
-### 📊 Linguagens mais usadas
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloraRosaPupo&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
-### 🌐 Onde me encontrar
-<div align="center">
-  <a href="https://www.instagram.com/florarosapupo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:florapupo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/flora-rosa-b386841b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
----
-
-## Organização e manutenção
-
-Repositório de perfil, sem aplicativo ou regras de negócio. Feature-first, MVVM e testes unitários de aplicação não se aplicam. Workflow duplicado foi removido e agenda corrigida; permissões e concorrência são explícitas.
-
-Veja [a revisão de desenvolvimento](docs/REVISAO.md) para decisões, testes e limites, e [o guia de contribuição](CONTRIBUTING.md) para o fluxo de manutenção.
+- **LinkedIn:** [Flora Rosa](https://www.linkedin.com/in/flora-rosa-b386841b6/)
+- **E-mail:** [florapupo@gmail.com](mailto:florapupo@gmail.com)
