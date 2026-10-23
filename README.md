@@ -1,4 +1,29 @@
-## Olá, eu sou a Flora Rosa 👋✨
+# Flora Rosa — Perfil no GitHub
+
+## Descrição
+
+Repositório especial que apresenta o perfil público de Flora Rosa no GitHub, incluindo trajetória, tecnologias, contatos e visualizações de atividade. É um perfil em Markdown, não uma aplicação.
+
+## Stack e bibliotecas
+
+Markdown, GitHub Actions e animação SVG.
+
+## Funcionalidades
+
+- Perfil público.
+- Apresentação de tecnologias.
+- Animação das contribuições.
+
+## Licença
+
+Não há uma licença de distribuição definida para este repositório. Nenhuma licença MIT, Apache ou equivalente é concedida por este README. As atribuições e os direitos dos materiais de terceiros permanecem preservados.
+
+## Validação e limites
+
+Revisão de documentação/YAML. A geração da animação não foi disparada manualmente.
+
+## Apresentação do perfil
+
 Desenvolvedora focada em **Flutter, Dart e UX/UI**, criando interfaces funcionais, elegantes e que fazem sentido para pessoas reais.
 
 ---
@@ -45,21 +70,6 @@ Desenvolvedora focada em **Flutter, Dart e UX/UI**, criando interfaces funcionai
 </div>
 
 ---
-
-
-
-
-## Funcionalidades
-
-- Perfil público.
-- apresentação de tecnologias.
-- animação das contribuições.
-
-
-## Licença
-
-Não há licença de distribuição definida neste repositório. Os direitos de terceiros e as atribuições existentes devem ser respeitados; esta revisão não concede permissão de redistribuição.
-
 
 ## Organização e manutenção
 
