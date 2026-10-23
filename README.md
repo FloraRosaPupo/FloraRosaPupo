@@ -1,13 +1,13 @@
-## Olá, eu sou a Flora Rosa 👋✨  
+## Olá, eu sou a Flora Rosa 👋✨
 Desenvolvedora focada em **Flutter, Dart e UX/UI**, criando interfaces funcionais, elegantes e que fazem sentido para pessoas reais.
 
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Formação em Sistemas de Informação  
-- 📱 Desenvolvimento mobile com Flutter  
-- 🎨 Background em UX/UI Design  
-- 🧠 Interesse em IA, produtos digitais e boas arquiteturas  
+- 🎓 Formação em Sistemas de Informação
+- 📱 Desenvolvimento mobile com Flutter
+- 🎨 Background em UX/UI Design
+- 🧠 Interesse em IA, produtos digitais e boas arquiteturas
 
 ---
 
@@ -47,3 +47,22 @@ Desenvolvedora focada em **Flutter, Dart e UX/UI**, criando interfaces funcionai
 ---
 
 
+
+
+## Funcionalidades
+
+- Perfil público.
+- apresentação de tecnologias.
+- animação das contribuições.
+
+
+## Licença
+
+Não há licença de distribuição definida neste repositório. Os direitos de terceiros e as atribuições existentes devem ser respeitados; esta revisão não concede permissão de redistribuição.
+
+
+## Organização e manutenção
+
+Repositório de perfil, sem aplicativo ou regras de negócio. Feature-first, MVVM e testes unitários de aplicação não se aplicam. Workflow duplicado foi removido e agenda corrigida; permissões e concorrência são explícitas.
+
+Veja [a revisão de desenvolvimento](docs/REVISAO.md) para decisões, testes e limites, e [o guia de contribuição](CONTRIBUTING.md) para o fluxo de manutenção.
