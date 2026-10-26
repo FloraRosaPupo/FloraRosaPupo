@@ -53,3 +53,4 @@ Para conversar sobre desenvolvimento de software, projetos e oportunidades profi
 
 - **LinkedIn:** [Flora Rosa](https://www.linkedin.com/in/flora-rosa-b386841b6/)
 - **E-mail:** [florapupo@gmail.com](mailto:florapupo@gmail.com)
+- **Portfólio:** [flora-rosa.web.app](https://flora-rosa.web.app/)
