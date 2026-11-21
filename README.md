@@ -1,6 +1,6 @@
 # Flora Rosa
 
-**Desenvolvedora Full Stack · Flutter & Dart · Node.js & TypeScript · UX/UI**
+**Engenheira de IA · Desenvolvedora Full Stack · Flutter & Dart · Node.js & TypeScript · UX/UI**
 
 Desenvolvo aplicações completas, do front-end ao back-end, com atenção à experiência de uso, à organização do código e à qualidade das entregas. Minha formação em **Sistemas de Informação**, minha pós-graduação em **Inteligência Artificial Aplicada a Negócios** (UniBH) e minha experiência com **UX/UI Design** conectam a construção das interfaces e das APIs às necessidades de quem vai utilizá-las.
 
