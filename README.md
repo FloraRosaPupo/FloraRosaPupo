@@ -54,3 +54,11 @@ Para conversar sobre desenvolvimento de software, projetos e oportunidades profi
 - **LinkedIn:** [Flora Rosa](https://www.linkedin.com/in/flora-rosa-b386841b6/)
 - **E-mail:** [florapupo@gmail.com](mailto:florapupo@gmail.com)
 - **Portfólio:** [flora-rosa.web.app](https://flora-rosa.web.app/)
+
+## Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FloraRosaPupo/FloraRosaPupo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FloraRosaPupo/FloraRosaPupo/output/github-contribution-grid-snake.svg">
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/FloraRosaPupo/FloraRosaPupo/output/github-contribution-grid-snake.svg">
+</picture>
